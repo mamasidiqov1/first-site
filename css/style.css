@@ -89,13 +89,13 @@ input {
     font-weight: 700;
 }
 
-.people {
+.birinchi {
     width: 100%;
     height: 100vh;
 
 }
 
-.people h2 {
+.birinchi h2 {
     text-align: center;
     color: #000;
     font-size: 48px;
@@ -103,14 +103,14 @@ input {
     font-weight: 700;
 }
 
-.people h3 {
+.birinchi h3 {
     padding: 70px;
     font-family: 'Livvic', sans-serif;
     color: #000;
     font-size: 48px;
 }
 
-.people p {
+.birinchi p {
     color: #000;
     font-family: 'Livvic', sans-serif;
     font-size: 28px;
@@ -137,14 +137,14 @@ input {
     font-family: 'Livvic', sans-serif;
 }
 
-.people2 {
+.ikkinchi {
     width: 100%;
     height: 100vh;
     margin-top: -50px;
 
 }
 
-.people2 h2 {
+.ikkinchi h2 {
     text-align: center;
     color: #000;
     font-size: 48px;
@@ -152,7 +152,7 @@ input {
     font-weight: 700;
 }
 
-.people2 h3 {
+.ikkinchi h3 {
     padding: 70px;
     font-family: 'Livvic', sans-serif;
     color: #000;
@@ -161,7 +161,7 @@ input {
     font-weight: 400;
 }
 
-.people2 p {
+.ikkinchi p {
     color: #000;
     font-family: 'Livvic', sans-serif;
     font-size: 28px;
@@ -190,14 +190,14 @@ input {
     font-family: 'Livvic', sans-serif;
 }
 
-.people3 {
+.uchinchi {
     width: 100%;
     height: 100vh;
     margin-top: -150px;
 
 }
 
-.people3 h2 {
+.uchinchi h2 {
     text-align: center;
     color: #000;
     font-size: 48px;
@@ -205,14 +205,14 @@ input {
     font-weight: 700;
 }
 
-.people3 h3 {
+.uchinchi h3 {
     padding: 70px;
     font-family: 'Livvic', sans-serif;
     color: #000;
     font-size: 48px;
 }
 
-.people3 p {
+.uchinchi p {
     color: #000;
     font-family: 'Livvic', sans-serif;
     font-size: 28px;
@@ -239,19 +239,19 @@ input {
     font-family: 'Livvic', sans-serif;
 }
 
-.ohrigi {
+.tortinchi {
     width: 100%;
     height: 100vh;
     text-align: center;
 }
 
-.ohrigi h2 {
+.tortinchi h2 {
     color: #000;
     text-align: center;
     font-family: 'Livvic', sans-serif;
     font-size: 48px;
     font-weight: 700;
 }
-.ohrigi img{
+.tortinchi img{
     margin-top: 100px;
 }
